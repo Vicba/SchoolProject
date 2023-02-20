@@ -1,6 +1,6 @@
 # SchoolProject
 
-##Context - drunk smurfs
+## Context - drunk smurfs
 Among all international hotel guests, Smurfs are burdened with the upkeep of a singular reputation: 
 they are (supposedly) the rowdiest bunch one can entertain, and are equally well-known for 
 unbridled spending as for racking up extensive costs in damages to hotel infrastructure, staff, and 
@@ -9,7 +9,7 @@ out the safety of his (or her) homeland.
 It is your job as a data scientist to screen applying Smurfs clients for an exclusive hotel in the 
 Bahamas - yes, it's the kind of hotel you need to apply for!
 
-##Data
+## Data
 At your disposal is a training set containing data about the behavior of 5000 Smurf hotel guests 
 (train_V2.csv). This data set contains information about the profit the hotel made during their last 
 visit (excluding damages), but also whether they caused damages during their last visit, and for what 
