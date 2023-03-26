@@ -11,6 +11,7 @@ ipykernel = "*"
 seaborn = "*"
 sklearn = "*"
 scikit-learn = "*"
+imblearn = "*"
 
 [dev-packages]
 ipykernel = "*"
